@@ -30,6 +30,10 @@ header {
     user-select: none;
 }
 
+.logo-profile {
+    color: #162950;
+}
+
 .navigation a {
     position: relative;
     font-size: 1.1em;
